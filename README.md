@@ -30,15 +30,21 @@ A simple GUI application designed to manage a farm inventory and allows users to
 
 -Login/Registration: Users can create an account or log in using their username and password. The application uses a JSON file to store the current user's session information, allowing users to log in and stay logged in between runs.
 
+<img src="/sImple_stock/media/Login.png">
+
 -Data Logging: There are three types of data that can be logged: plant, harvest, and task. Each type has its own entry form with fields for the item name, quantity, and date/time.
 
+<img src="/sImple_stock/media/HarvestLogEntry.png">
+
 -Farm Inventory: The application allows users to manage farm supplies, including tools, farm supplies, and animal supplies. Each supply has its own entry form with fields for the item name, quantity and price.
+
+<img src="/sImple_stock/media/AnimalSupplyEntry.png">
 
 -Task Management: Users can log tasks completed on the farm, with fields for the task description, date/time, and quantity (if applicable).
 
 -View Data: Users can view logged data in various forms, including tables and charts via menubar items.
+<img src="/sImple_stock/media/AnimalSupply.png">
 
--A weight converter for conviency located in "tools" on the menubar.
 
 ----------------------------------------------------
 3. Requirements
