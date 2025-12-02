@@ -51,6 +51,7 @@ A simple GUI application designed to manage a farm inventory and allows users to
 ----------------------------------------------------
 
 -Python: 3.11+
+
 -customtkinter
 
 ----------------------------------------------------
