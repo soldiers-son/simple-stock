@@ -72,9 +72,9 @@ A simple GUI application designed to manage a farm inventory and allows users to
 ----------------------------------------------------
 5. Dependencies
 ----------------------------------------------------
-Install required packages via pip:
+Open file in terminal and run:
 
-   pip install customtkinter
+   >pip install REQUIREMENTS.txt
 
 ----------------------------------------------------
 6. Usage
