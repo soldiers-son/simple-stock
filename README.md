@@ -36,7 +36,7 @@ A simple GUI application designed to manage a farm inventory and allows users to
 
 <img src="/sImple_stock/media/HarvestLogEntry.png">
 
--Farm Inventory: The application allows users to manage farm supplies, including tools, farm supplies, and animal supplies. Each supply has its own entry form with fields for the item name, quantity and price.
+-Farm Inventory: The application allows users to manage farm inventory, including tools, farm supplies, and animal supplies. Each supply has its own entry form with fields for the item name, quantity and price.
 
 <img src="/sImple_stock/media/AnimalSupplyEntry.png">
 
