@@ -115,7 +115,7 @@ Open file in terminal and run:
 
 Planned expansions include:
 
--Expaned data visualization and management
+-Expanded data visualization and management
 
 -User Task assignment with todo notifications
 
