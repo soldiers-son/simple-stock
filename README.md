@@ -85,7 +85,7 @@ Open file in terminal and run:
 
 -Log In: Once your account is created, log in by entering your username and password.
 
--Main Menu: You will be taken to the main menu, where you can access various features such as Data Logging, Farm Inventory, and Task Management.
+-Main Menu: You will be taken to the main menu, where you can access various features such as Data Logging and Farm Inventory.
 
 3. Data Logging
    
