@@ -26,9 +26,9 @@ A simple GUI application designed to manage a farm inventory and allows users to
 ----------------------------------------------------
 2. Features
 ----------------------------------------------------
--GUI design: The application uses Tkinter & Custontkinter to create a simple GUI with buttons, labels, and entry forms.
+-GUI design: The application uses Tkinter & Customtkinter to create a simple GUI with buttons, labels, and entry forms.
 
--Login/Registration: Users can create an account or log in using their username and password. The application uses a JSON file to store the current user's session information, allowing users to log in and stay logged in between runs.
+-Login/Registration: Users can create an account or log in using their username and password. The application uses a JSON file to store the current user's session information, allowing users to log in and stay logged in between runs. It uses bcrypt for hash encryption of passwords.
 
 <img src="/sImple_stock/media/Login.png">
 
